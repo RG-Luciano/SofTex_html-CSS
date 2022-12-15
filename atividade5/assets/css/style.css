@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: roboto;
+    background: white;
+    margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+}
+header img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(129, 39, 39);
+    font-family: roboto;
+    font-size: 25px;
+}
+a:hover{
+    color: white;
+    background: rgb(129, 39, 39);
+}
+header{
+    margin-bottom: 20px;
+}
+h1{
+    color: rgb(129, 39, 39);
+    padding-bottom: 25px;
+}
+main p{
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
